@@ -1,0 +1,2 @@
+goal:
+to have the ability to enter a name into the entry box provided, and by clicking the "enter person" button, save the entry to a list. when the "reset" button is pushed, it clears the list. when the "choose winner" button is pushed, the program randomizes the entries within the list, and outputs a single winner at random.
