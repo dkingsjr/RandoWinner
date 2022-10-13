@@ -16,7 +16,7 @@ def pick():
 	our_number = len(unique_entries) - 1
 	#create random number
 	rando = randint(0, our_number)
-
+	#create winner output
 	winnerlabel = Label(root, text=unique_entries[rando], font="helvetica 20 bold")
 	winnerlabel.grid(row=5, columnspan=3, pady=5)
   
